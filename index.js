@@ -20,7 +20,7 @@ new Vue({
                     name: "Synchronia",
                     artist: "Athmyx",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Synchronia.wav",
+                    source: "tracks/Synchronia.mp3",
                     url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
                     favorited: false
                 },
@@ -28,7 +28,7 @@ new Vue({
                     name: "Discombobulation",
                     artist: "Athmyx vs. Xx.hollow",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Discombobulation.wav",
+                    source: "tracks/Discombobulation.mp3",
                     url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
                     favorited: true
                 },
@@ -36,7 +36,7 @@ new Vue({
                     name: "Whirlithem",
                     artist: "Athmyx",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Whirlithem.wav",
+                    source: "tracks/Whirlithem.mp3",
                     url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
                     favorited: false
                 },
@@ -52,7 +52,7 @@ new Vue({
                     name: "Ariarcon",
                     artist: "Athmyx vs. LinRavenclaw",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Ariarcon.wav",
+                    source: "tracks/Ariarcon.mp3",
                     url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
                     favorited: true
                 },
@@ -60,7 +60,7 @@ new Vue({
                     name: "Ni",
                     artist: "Athmyx",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Ni.wav",
+                    source: "tracks/Ni.mp3",
                     url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
                     favorited: false
                 },
@@ -68,7 +68,7 @@ new Vue({
                     name: "Sunset Waves (Sunshine remix)",
                     artist: "Athmyx vs. LostPigYoo",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Sunset Waves (Sunshine remix).wav",
+                    source: "tracks/Sunset Waves (Sunshine remix).mp3",
                     url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
                     favorited: true
                 },
@@ -76,7 +76,7 @@ new Vue({
                     name: "Palladyne",
                     artist: "Kahxlyrio",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Palladyne.wav",
+                    source: "tracks/Palladyne.mp3",
                     url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
                     favorited: true
                 },
@@ -84,7 +84,7 @@ new Vue({
                     name: "Hollowness",
                     artist: "Athmyx vs. W.Turkey",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Ni.wav",
+                    source: "tracks/Hollowness (Game Edit.).mp3",
                     url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
                     favorited: false
                 },
@@ -92,7 +92,7 @@ new Vue({
                     name: "Sichonia",
                     artist: "Athmyx",
                     cover: "covers/Ni.jpg",
-                    source: "tracks/Sichonia.wav",
+                    source: "tracks/Sichonia.mp3",
                     url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
                     favorited: false
                 },
